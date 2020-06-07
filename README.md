@@ -71,7 +71,7 @@ Models steps :
 
 ### Links
 
-Source page : 
+Source page : https://www.kaggle.com/nikdavis/steam-store-games
 
-Presentation : 
+Presentation : https://docs.google.com/presentation/d/1MMvmmtFGfM7Zq8hJigSYDZX2Z604MMa0jfdNFWAtH3w/edit?usp=sharing
 
